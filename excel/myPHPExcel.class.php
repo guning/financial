@@ -4,6 +4,7 @@
  * User: guning
  * DateTime: 2017-7-28 11:49
  */
+namespace tool\excel;
 include "PHPExcel.php";
 class myPHPExcel {
     protected $objPHPExcel;
